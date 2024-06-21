@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sumiran Grover.</h1>
 <h3 align="center">I'm a third-year Computer Science Engineering student at Thapar University, Patiala. I strongly believe in accepting what went wrong and learning from challenges. I have an inclination in the field of Artificial Intelligence and Machine Learning.</h3>
 
-<p align="right">
- <img width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding">
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sumiran18&label=Profile%20views&color=0e75b6&style=flat" alt="sumiran18">
-</p>
-<p align="left">
-  🔭- I’m currently learning advance machine learning algorithms.<br>
-  💬- Ask me about Problem Solving Strategies, Relational Databases, and Computer Networks.<br>
-  📫- How to reach me: <strong>sumirangrover.1823@gmail.com</strong>
-</p>
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="flex-basis: 30%; padding: 20px;">
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=sumiran18&label=Profile%20views&color=0e75b6&style=flat" alt="sumiran18">
+    </p>
+    <p>
+      🔭 I’m currently learning advance machine learning algorithms.<br>
+      💬 Ask me about Problem Solving Strategies, Relational Databases, and Computer Networks.<br>
+      📫 How to reach me: **sumirangrover.1823@gmail.com**
+    </p>
+  </div>
+  <div style="flex-basis: 70%; padding: 20px;">
+    <img width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding">
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
