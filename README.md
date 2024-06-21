@@ -10,7 +10,8 @@ I'm a third year, Computer Science Engineering student at Thapar Univeristy, Pat
 - 📫 How to reach me: sumirangrover.1823@gmail.com
 
 ## 🛠️ Skills
-- **Languages**: C++, Python, SQL
+- **Languages**: C++, ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+, SQL
 - **Frameworks**: Pandas, NumPy, Seaborn, Matplotib
 - **Tools**: Jupyter Notebook, Oracle Apex, MATLAB, Arduino, Multisim 
 
