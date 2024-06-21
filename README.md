@@ -10,10 +10,11 @@
       🔭 I’m currently learning advance machine learning algorithms.<br>
       💬 Ask me about Problem Solving Strategies, Relational Databases, and Computer Networks.<br>
       📫 How to reach me: **sumirangrover.1823@gmail.com**
-    </p>
+    
   </div>
   <div style="flex-basis: 70%; padding: 20px;">
-    <img width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding">
+    <img width="400" align="right" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding">
+    </p>
   </div>
 </div>
 
